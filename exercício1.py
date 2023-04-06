@@ -4,5 +4,3 @@ for i in range(5):
     vetor.append(numero)
 
     print("Os números digitados foram:", vetor)
-
-    
