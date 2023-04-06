@@ -7,5 +7,4 @@ for i in range(10):
     listaVazia.append(varTemp)  
 
 
-
 print(listaVazia)
