@@ -5,10 +5,10 @@ for n in range(5):
     numeros.append(numero)
 
 soma = sum(numeros)
-multiplicacao = 1
+multiplicaca = 1
 for numero in numeros:
-    multiplicacao *= numero
+    multiplicaca *= numero
 
 print("Números digitados:", numeros)
 print("Soma:", soma)
-print("multiplicação:", multiplicacao)
+print("multiplicação:", multiplicaca)
