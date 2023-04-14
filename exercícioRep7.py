@@ -4,4 +4,4 @@ for i in range(5):
     numeros.append(numero)
 
 maior = max(numeros)
-print("O maior número digitado foi:", maior
+print("O maior número digitado foi:", maior)
